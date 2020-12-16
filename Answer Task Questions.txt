@@ -1,0 +1,19 @@
+//Task Questions
+1- What 3rd party libraries did you use and why ?
+I use Almofire and swifty Jason 
+Alamofire is built on top of NSURLSession, and is less lines of code to do REST interactions with (POST/GET/PUT/etc) because it’s build it using NSUrlSession it’s modern than NSURLConnection
+Swifty Jason easy tool to parsing Jason 
+
+2-What architecture did you use and why ?
+MVCN It’s an apple recommendation architecture and easy in use and used in systems didn’t have many request to change data remotely from api like mvvm and rxswfit is best case for that 
+
+3-Let’s say that your team is working on this app and you're looking to add a new
+feature. Describe the process that you would follow in your current place of work
+to bring this from an initial idea to a live feature in production. What are the
+positives and negatives of this approach?
+ first of all, I will do some researches about my feature and looking at other apps that do that feature after that I will make some demos and discuss it with the team leader to know his opinion if he said it's ok we can do that we will do it if not I will ask him for logical reasons and try to optimize my demos 
+positives in this approach 
+1- teamwork 
+2- self searches and more experiences 
+negatives in this approach
+it may be many conflicts between our opinion 
