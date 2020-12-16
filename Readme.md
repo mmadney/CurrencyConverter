@@ -11,3 +11,4 @@ To install app go to the project by terminal
  1- AnswerQuestions.playground
  2- Answer Task Questions.txt
  
+i solve the task but it's work only in euro beacuse other currencies need to buy a premium account
